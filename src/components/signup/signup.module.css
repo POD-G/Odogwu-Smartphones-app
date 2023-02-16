@@ -1,0 +1,32 @@
+register {
+    width: 400px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+
+.register > form input {
+    border-radius: 10px;
+    border: 2px solid lightgrey;
+    /* box-sizing: border-box; */
+    /* outline: none; */
+    color: #1d2129;
+    /* margin: 2% 0; */
+    width: 100%;
+    /* padding: 1.25rem 1.875rem; */
+    /* height: 2.5rem; */
+    font-size: 12px;
+    /* min-height: 23.0625rem; */
+    display: block;
+    margin-top: 1em;
+    border: 0.0625rem solid #9b9b9b;
+    border-radius: 0.1875rem;
+    height: 2.95rem;
+    margin-top: 0.625rem;
+    outline: 0;
+    padding: 0 0.9375rem;
+}
