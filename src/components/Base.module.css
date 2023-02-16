@@ -1,0 +1,23 @@
+.button_common {
+    background-color: #33b27b;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    /* font-size: 22px; */
+    display: block;
+    border-radius: 15px;
+    margin: 1rem;
+    width: 90%;
+    font-size: .9375rem;
+    font-weight: 700;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+}
+.error {
+    color: red;
+    text-align: left;
+    margin: auto;
+    font-size: 16px;
+    padding: 0px 1rem;
+}
