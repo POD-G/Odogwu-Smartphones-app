@@ -80,6 +80,7 @@ const Register = () => {
   }, [formErrors]);
   return (
     <>
+        <div className={basestyle.header}>
       <div className={registerstyle.register}>
         <form>
           <h1>Create your account</h1>
@@ -143,6 +144,7 @@ const Register = () => {
         </form>
         <NavLink to="/login">Already registered? Login</NavLink>
       </div>
+        </div>
     </>
   );
 };
